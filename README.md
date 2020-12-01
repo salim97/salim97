@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://salim97.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.linkedin.com/in/salim-benabadji-2458861bb/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/salim_benabadji"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -41,7 +41,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim97&show_icons=true)](https://github.com/salim97/github-readme-stats)
 
 [website]: https://salim97.github.io/
-
 [flg]: https://github.com/salim97
 [instagram]: https://www.instagram.com/salim_benabadji/
 [linkedin]: https://www.linkedin.com/in/salim/
