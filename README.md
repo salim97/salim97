@@ -2,10 +2,7 @@
 ### Hi there, I'm Salim - aka [salim97][website] 👋
 
 ## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a [Flutter Redux Gen][flg]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently coding at home
 
 ### Connect with me:
 
