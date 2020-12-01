@@ -1,7 +1,7 @@
  
-### Hi there, I'm Salim - aka [salim97][website] 👋
+### Hi there, I'm Salim - aka [salim97][https://salim97.github.io/] 👋
 
-## I'm a Developer, and Teacher!
+## I'm a Developer!
 - 🔭 I’m currently coding at home
 
 ### Connect with me:
