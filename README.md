@@ -1,5 +1,5 @@
  
-### Hi there, I'm Salim - aka [salim97][https://salim97.github.io/] 👋
+### Hi there, I'm Salim - aka [salim97](https://salim97.github.io/) 👋
 
 ## I'm a Mobile and Desktop Developer!
 - 🔭 I’m currently coding at home
