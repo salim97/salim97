@@ -32,7 +32,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salim97&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim97&show_icons=true)](https://github.com/salim97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salim97&show_icons=true&hide=javascript,html)](https://github.com/salim97/github-readme-stats)
 
 [website]: https://salim97.github.io/
 [flg]: https://github.com/salim97
