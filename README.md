@@ -12,13 +12,18 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.edn.com/author/benabadji-mohammed-salim/">
-    <img src="https://img.shields.io/badge/EDN-E4405F?style=for-the-badge&logo=EDN&logoColor=white" />
-</a>
-
 <a href="https://stackoverflow.com/users/story/11453484?view=Timeline">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+ 
+<a href="https://www.edn.com/author/benabadji-mohammed-salim/">
+    <img src="https://img.shields.io/badge/EDN-E4405F?style=for-the-badge&logo=EDN&logoColor=white" />
+</a>
+ 
+<a href="https://easyeda.com/benabadji.mohammed.salim">
+    <img src="https://img.shields.io/badge/easyEDA-4169E1?style=for-the-badge&logo=easyeda&logoColor=white" />
+</a>
+ 
 </div>
 
 
