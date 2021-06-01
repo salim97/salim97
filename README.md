@@ -1,13 +1,37 @@
  
 ### Hi there, I'm Salim - aka [salim97](https://salim97.github.io/) 👋
 
+<div align="center">
+<p align="center">Let's connect!</p>
+
+<a href="https://www.instagram.com/salim_benabadji/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/salimbenabadji/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.edn.com/author/benabadji-mohammed-salim/">
+    <img src="https://img.shields.io/badge/EDN-E4405F?style=for-the-badge&logo=EDN&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/story/11453484?view=Timeline">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+
+### A Student, Developer & Writer
+
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+
 ## I'm a Mobile and Desktop Developer!
 - 🔭 I’m currently coding at home
-
-### Connect with me:
-
-[<img align="left" alt="https://salim97.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://www.instagram.com/salim_benabadji"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 💻 The tech I'm interested in Flutter Mobile & Web, Qt C++ & QML, ESP8266 & ESP32 
+- ✍ Technical writer at EDN & Silicon Chip Magazine
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
 
 <br />
 
