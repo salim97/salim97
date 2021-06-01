@@ -22,7 +22,7 @@
 </div>
 
 
-### A Student, Developer & Writer
+### A Developer & Writer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
