@@ -67,3 +67,8 @@
 [flg]: https://github.com/salim97
 [instagram]: https://www.instagram.com/salim_benabadji/
 [linkedin]: https://www.linkedin.com/in/salim/
+
+
+<a href="https://www.buymeacoffee.com/salimbenabadji" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+
+
